@@ -4,7 +4,9 @@
         IR_DEMO
 
 Description: 
- 
+  is a testing setup used to verify the functionality of an infrared (IR) sensor by counting each time it detects a signal or object. 
+  When the sensor detects an object, it sends a signal to the ESP32, which processes the input and increments the count. This test ensures that the IR 
+  sensor can detect objects accurately and that the ESP32 can properly register and record each detection.
 
 Engineers:
  Aragon, Edward Paul M.
